@@ -428,3 +428,16 @@ dd {
 .search-results .search-description {
     margin: 8px 0 0 30px;
 }
+
+th {
+    background-color: #e6e6e6;
+}
+td, th {
+    border-bottom: 1px solid #DADADA;
+    padding: 10px;
+}
+table {
+    background-color: transparent;
+    width: 100%;
+    margin: 20px 0;
+}
