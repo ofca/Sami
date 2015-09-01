@@ -11,7 +11,7 @@
 
 namespace Sami\Renderer;
 
-use Michelf\Markdown;
+use Michelf\MarkdownExtra as Markdown;
 use Sami\Reflection\ClassReflection;
 use Sami\Reflection\MethodReflection;
 use Sami\Reflection\PropertyReflection;
